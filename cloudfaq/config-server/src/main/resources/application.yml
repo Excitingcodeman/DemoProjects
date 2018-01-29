@@ -10,3 +10,5 @@ spring:
           username:
           password:
       label: master
+server:
+  port: 8888
